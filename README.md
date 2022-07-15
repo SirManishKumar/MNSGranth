@@ -25,9 +25,7 @@ Thank You For Using MNSGranth.
 
 One Click Use
 
-apt update -y
-apt upgrade -y
-pkg python -y
+apt update -y<br>apt upgrade -y<br>pkg python -y
 pip install lolcat
 git clone https://github.com/SirManishKumar/MNSGranth
 cd MNSGranth
