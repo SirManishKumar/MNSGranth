@@ -168,70 +168,70 @@ c) echo " Contacting To Server Please Wait.............................💯" | l
 
 ;;
 1) echo " Contacting To Server Please Wait.............................💯" | lolcat
-   echo " Starting To Open Twitter Please Wait.                          " | lolcat
+   echo " Starting To Open MNSGranth Please Wait.                        " | lolcat
    xdg-open https://akhandramayan.wordpress.com 
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
 
 ;;
 2) echo " Contacting To Server Please Wait.............................💯" | lolcat
-   echo " Starting To Open Twitter Please Wait.                          " | lolcat
+   echo " Starting To Open ShriRamcharitManas Please Wait.               " | lolcat
    xdg-open https://akhandramayan.wordpress.com/shriramcharitmanas
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
 
 ;;
 3) echo " Contacting To Server Please Wait.............................💯" | lolcat
-   echo " Starting To Open Twitter Please Wait.                          " | lolcat
+   echo " Starting To Open ValmikiRamayan Please Wait.                   " | lolcat
    xdg-open https://akhandramayan.wordpress.com/valmikiramayan
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
 
 ;;
 4) echo " Contacting To Server Please Wait.............................💯" | lolcat
-   echo " Starting To Open Twitter Please Wait.                          " | lolcat
+   echo " Starting To Open Balkanda Please Wait.                         " | lolcat
    xdg-open https://akhandramayan.wordpress.com/balkanda
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
 
 ;;
 5) echo " Contacting To Server Please Wait.............................💯" | lolcat
-   echo " Starting To Open Twitter Please Wait.                          " | lolcat
+   echo " Starting To Open Ayodhyakanda Please Wait.                     " | lolcat
    xdg-open https://akhandramayan.wordpress.com/ayodhyakanda
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
 
 ;;
 6) echo " Contacting To Server Please Wait.............................💯" | lolcat
-   echo " Starting To Open Twitter Please Wait.                          " | lolcat
+   echo " Starting To Open Aranyakanda Please Wait.                      " | lolcat
    xdg-open https://akhandramayan.wordpress.com/aranyakanda
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
 
 ;;
 7) echo " Contacting To Server Please Wait.............................💯" | lolcat
-   echo " Starting To Open Twitter Please Wait.                          " | lolcat
+   echo " Starting To Open Kishkindhakanda Please Wait.                  " | lolcat
    xdg-open https://akhandramayan.wordpress.com/kishkindhakanda
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
 
 ;;
 8) echo " Contacting To Server Please Wait.............................💯" | lolcat
-   echo " Starting To Open Twitter Please Wait.                          " | lolcat
+   echo " Starting To Open Sunderkanda Please Wait.                      " | lolcat
    xdg-open https://akhandramayan.wordpress.com/sundrakanda
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
 
 ;;
 9) echo " Contacting To Server Please Wait.............................💯" | lolcat
-   echo " Starting To Open Twitter Please Wait.                          " | lolcat
+   echo " Starting To Open Lankakand Please Wait.                        " | lolcat
    xdg-open https://akhandramayan.wordpress.com/lankakand
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
 
 ;;
-10) echo " Contacting To Server Please Wait.............................💯" | lolcat
-   echo " Starting To Open Twitter Please Wait.                          " | lolcat
+10) echo " Contacting To Server Please Wait............................💯" | lolcat
+   echo " Starting To Open Uttarakanda Please Wait.                      " | lolcat
    xdg-open https://akhandramayan.wordpress.com/uttarakanda
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
