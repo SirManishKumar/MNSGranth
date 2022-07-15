@@ -116,7 +116,14 @@ echo ' 7. Read Kishkindhakanda       |         t. Twitter         |'
 echo ' 8. Read Sunderkanda           |         w. WhatsApp        |'
 echo ' 9. Read Lankakanda            |  github.com/SirManishKumar |'
 echo '10. Read Uttarakanda           ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯'
-echo '                                           0. Exit '
+echo '11. Learn Balkanda'
+echo '12. Learn Ayodhyakanda'
+echo '13. Learn Aranyakanda'
+echo '14. Learn Kishkindhakanda'
+echo '15. Learn Sunderkanda'
+echo '16. Learn Lankakanda'
+echo '17. Learn Uttarakanda'
+echo '                   N. Next            0. Exit '
 echo "=============================================================" | lolcat
 echo "   Please Choose Your Number To Read Ramayan On MNSGranth.   " | lolcat
 echo "=============================================================" | lolcat
@@ -247,6 +254,13 @@ figlet -f slant "MNSGranth" | lolcat
 sleep 1
 clear
 exit
+
+;;
+N) clear
+bash .1.sh
+;;
+n) clear
+bash .1.sh
 
 ;;
 esac
