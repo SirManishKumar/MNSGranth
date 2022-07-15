@@ -25,9 +25,4 @@ Thank You For Using MNSGranth.
 
 One Click Use
 
-apt update -y<br>apt upgrade -y<br>pkg python -y
-pip install lolcat
-git clone https://github.com/SirManishKumar/MNSGranth
-cd MNSGranth
-chmod +x read.sh
-bash read.sh
+apt update -y<br>apt upgrade -y<br>pkg python -y<br>pip install lolcat<br>git clone https://github.com/SirManishKumar/MNSGranth<br>cd MNSGranth<br>chmod +x read.sh<br>bash read.sh
