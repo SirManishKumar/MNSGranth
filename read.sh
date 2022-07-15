@@ -256,13 +256,6 @@ clear
 exit
 
 ;;
-N) clear
-bash .1.sh
-;;
-n) clear
-bash .1.sh
-
-;;
 esac
 done
 done
