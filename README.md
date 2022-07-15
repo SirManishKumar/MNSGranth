@@ -22,3 +22,14 @@ chmod +x read.sh
 bash read.sh
 
 Thank You For Using MNSGranth.
+
+One Click Use
+
+apt update -y
+apt upgrade -y
+pkg python -y
+pip install lolcat
+git clone https://github.com/SirManishKumar/MNSGranth
+cd MNSGranth
+chmod +x read.sh
+bash read.sh
