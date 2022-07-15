@@ -125,11 +125,16 @@ read -p "╰──> " pil;
 case $pil in
 u) echo " Contacting To Server Please Wait.............................💯" | lolcat
    echo " Starting To Update MNSGranth Please Wait.                      " | lolcat
-   apt update && apt upgrade
+   exit
+   cd && rm -rf MNSGranth
+   termux-setup-storage
+   apt update && apt upgrade -y
    apt install git -y
-   pkg install python -y
-   echo " It's finished Thank you for using MNSGranth.                   " | lolcat
-   clear
+   apt install python -y
+   git clone https://github.com/SirManishKumar/MNSGranth
+   cd && cd MNSGranth
+   chmod *x read.sh 
+   bash read.sh
 
 ;;
 w) echo " Contacting To Server Please Wait.............................💯" | lolcat
