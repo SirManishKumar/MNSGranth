@@ -119,10 +119,10 @@ echo '10. Read Uttarakanda           ╰━━━━━━━━━━━━━�
 echo '11. Learn Hindu Dharma'
 echo '12. Learn Hindu Sanskriti'
 echo '13. Learn Hindu Sanskaar'
-echo '14. Learn Kishkindhakanda'
-echo '15. Learn Sunderkanda'
-echo '16. Learn Lankakanda'
-echo '17. Learn Uttarakanda'
+echo '14. Learn ShriBhagavadGeeta'
+echo '15. Learn ShriGarudaPuran'
+echo '16. Learn Hindutva Ki Duniya'
+echo '17. Learn Termux Tools & PKG'
 echo '                   N. Next            0. Exit '
 echo "=============================================================" | lolcat
 echo "   Please Choose Your Number To Read Ramayan On MNSGranth.   " | lolcat
