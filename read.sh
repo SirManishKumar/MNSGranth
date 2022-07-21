@@ -353,7 +353,7 @@ printf "\n"
 printf "\e[1;40m\t            Created by:\e[0m\e[1;42mSirManishKumar\e[0m\n"
 printf "\n"
 
-printf "\e[1;93m====================[\e[0m\e[1;95mMNSGranth]\e[0m\e[1;93m=====================\e[0m\n"
+printf "\e[1;93m========================[\e[0m\e[1;95mMNSGranth]\e[0m\e[1;93m=========================\e[0m\n"
 sleep 1
 ###################################################
 # CTRL + C
