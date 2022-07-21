@@ -562,7 +562,7 @@ c) echo " Contacting To Server Please Wait.............................💯" | l
 ;;
 17) echo " Contacting To Server Please Wait............................💯" | lolcat
    echo " Starting To Open Termux Tools & PKG Please Wait.               " | lolcat
-   xdg-open https://akhandramayan.wordpress.com/world-of-hindutva
+   xdg-open https://akhandramayan.wordpress.com/technical
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
 
