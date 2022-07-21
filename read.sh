@@ -387,13 +387,13 @@ echo ' 8. Read Sunderkanda           |         w. WhatsApp        |'
 echo ' 9. Read Lankakanda            |  github.com/SirManishKumar |'
 echo '10. Read Uttarakanda           ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯'
 echo '11. Learn Hindu Dharma'
-echo '12. Learn Hindu Sanskriti'
+echo '12. Learn Hindu Sanskriti                0. Exit'
 echo '13. Learn Hindu Sanskaar'
 echo '14. Learn ShriBhagavadGeeta'
 echo '15. Learn ShriGarudaPuran'
 echo '16. Learn Hindutva Ki Duniya'
 echo '17. Learn Termux Tools & PKG'
-echo '                   N. Next            0. Exit '
+echo ""
 echo "=============================================================" | lolcat
 echo "   Please Choose Your Number To Read Ramayan On MNSGranth.   " | lolcat
 echo "=============================================================" | lolcat
@@ -514,6 +514,55 @@ c) echo " Contacting To Server Please Wait.............................💯" | l
 10) echo " Contacting To Server Please Wait............................💯" | lolcat
    echo " Starting To Open Uttarakanda Please Wait.                      " | lolcat
    xdg-open https://akhandramayan.wordpress.com/uttarakanda
+   echo " It's finished Thank you for using MNSGranth.                   " | lolcat
+   clear
+
+;;
+11) echo " Contacting To Server Please Wait............................💯" | lolcat
+   echo " Starting To Open Hindu Dharma Please Wait.                     " | lolcat
+   xdg-open https://akhandramayan.wordpress.com/hindudharma
+   echo " It's finished Thank you for using MNSGranth.                   " | lolcat
+   clear
+
+;;
+12) echo " Contacting To Server Please Wait............................💯" | lolcat
+   echo " Starting To Open Hindu Sanskriti Please Wait.                  " | lolcat
+   xdg-open https://akhandramayan.wordpress.com/hindusanskriti
+   echo " It's finished Thank you for using MNSGranth.                   " | lolcat
+   clear
+
+;;
+13) echo " Contacting To Server Please Wait............................💯" | lolcat
+   echo " Starting To Open Hindu Sanskaar Please Wait.                   " | lolcat
+   xdg-open https://akhandramayan.wordpress.com/hindusanskaar
+   echo " It's finished Thank you for using MNSGranth.                   " | lolcat
+   clear
+
+;;
+14) echo " Contacting To Server Please Wait............................💯" | lolcat
+   echo " Starting To Open ShriBhagavadGeeta Please Wait.                " | lolcat
+   xdg-open https://akhandramayan.wordpress.com/srbhagavadgeeta
+   echo " It's finished Thank you for using MNSGranth.                   " | lolcat
+   clear
+
+;;
+15) echo " Contacting To Server Please Wait............................💯" | lolcat
+   echo " Starting To Open ShriGarudaPuran Please Wait.                  " | lolcat
+   xdg-open https://akhandramayan.wordpress.com/garudapuran
+   echo " It's finished Thank you for using MNSGranth.                   " | lolcat
+   clear
+
+;;
+16) echo " Contacting To Server Please Wait............................💯" | lolcat
+   echo " Starting To Open Hindutva Ki Duniya Please Wait.               " | lolcat
+   xdg-open https://akhandramayan.wordpress.com/world-of-hindutva
+   echo " It's finished Thank you for using MNSGranth.                   " | lolcat
+   clear
+
+;;
+17) echo " Contacting To Server Please Wait............................💯" | lolcat
+   echo " Starting To Open Termux Tools & PKG Please Wait.               " | lolcat
+   xdg-open https://akhandramayan.wordpress.com/world-of-hindutva
    echo " It's finished Thank you for using MNSGranth.                   " | lolcat
    clear
 
