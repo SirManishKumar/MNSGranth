@@ -33,7 +33,7 @@ echo -e $'\e[1;31m     Follow On Twitter:- http://twtter.com/SirManishKumar  \e[
 echo -e $'\e[1;32m╰━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━╯ \e[0m'
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
 echo -e "\e[1;31m   Contacting To Manish Kumar Chaturvedi Server Please Wait."
-echo -e "\e[1;37m                    Connecting- MNSGRANTH"
+echo -e "\e[1;37m                   Connecting- MNSGRANTH"
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
 sleep .8
 clear
@@ -353,7 +353,7 @@ printf "\n"
 printf "\e[1;40m\t            Created by:\e[0m\e[1;42mSirManishKumar\e[0m\n"
 printf "\n"
 
-printf "\e[1;93m========================[\e[0m\e[1;95mMNSGranth]\e[0m\e[1;93m=========================\e[0m\n"
+printf "\e[1;93m=========================[\e[0m\e[1;95mMNSGranth]\e[0m\e[1;93m==========================\e[0m\n"
 sleep 1
 ###################################################
 # CTRL + C
