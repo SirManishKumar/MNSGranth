@@ -1,9 +1,6 @@
 #!/bin/bash
 #version 3.0
 clear
-apt update && apt upgrade -y
-apt install git -y
-pkg install python -y
 pip install lolcat
 pkg install figlet
 clear
